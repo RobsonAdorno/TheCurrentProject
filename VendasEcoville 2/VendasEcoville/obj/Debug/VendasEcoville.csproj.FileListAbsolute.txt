@@ -1,0 +1,6 @@
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\bin\Debug\VendasEcoville.exe.config
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\bin\Debug\VendasEcoville.exe
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\bin\Debug\VendasEcoville.pdb
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\obj\Debug\VendasEcoville.csprojResolveAssemblyReference.cache
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\obj\Debug\VendasEcoville.exe
+c:\users\diogo\documents\visual studio 2015\Projects\VendasEcoville\VendasEcoville\obj\Debug\VendasEcoville.pdb
